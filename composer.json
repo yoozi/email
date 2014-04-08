@@ -2,7 +2,7 @@
     "name": "yoozi/email",
     "description": "Simple toolkits to help processing email related tasks, such as a Email Address Parser and etc.",
     "keywords": ["golem", "email"],
-    "homepage": "https://github.com/yoozi/email",
+    "homepage": "http://golem.yoozi.cn/",
     "type": "library",
     "license": "MIT",
     "authors": [
